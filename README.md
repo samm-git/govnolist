@@ -4,7 +4,7 @@ How to make user life miserable
 
 ## Description
 
-We are using Terraform, Mikrotik provider, and blacklist.salamek.cz to inject data into the local Mikrotik DNS records
+We are using [Terraform](https://www.terraform.io/), [Mikrotik provider](https://registry.terraform.io/providers/ddelnano/mikrotik/latest/docs), and [blacklist.salamek.cz](https://blacklist.salamek.cz) to inject data into the local Mikrotik DNS records
 
 ## How to use
 
